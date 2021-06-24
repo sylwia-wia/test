@@ -1,0 +1,55 @@
+[
+  {
+    "name" : "Lindy",
+    "breed" : "Cymric",
+    "color" : "white",
+    "kittens" : [
+      {
+        "name" : "Percy",
+        "gender" : "m"
+      },
+      {
+        "name" : "Thea",
+        "gender" : "f"
+      },
+      {
+        "name" : "Annis",
+        "gender" : "f"
+      }
+    ]
+  },
+  {
+    "name" : "Mike",
+    "breed" : "Aphrodite Giant",
+    "color" : "orange",
+    "kittens" : [
+      {
+        "name" : "Diana",
+        "gender" : "female"
+      },
+      {
+        "name" : "Pickle",
+        "gender" : "female"
+      },
+      {
+        "name" : "Max",
+        "gender" : "male"
+      }
+    ]
+  },
+  {
+    "name" : "Antonia",
+    "breed" : "Ocicat",
+    "color" : "leopard spotted",
+    "kittens" : [
+      {
+        "name" : "Grace",
+        "gender" : "female"
+      },
+      {
+        "name" : "Rudolph",
+        "gender" : "male"
+      }
+    ]
+  }
+]
